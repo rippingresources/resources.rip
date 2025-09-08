@@ -88,7 +88,7 @@
 
         async function updateTitle() {
             let textToAppend = '-where-it-rained'
-            for (let i = 0; i < textToAppend.length; i++) {
+            for (let i = 0; i <= textToAppend.length; i++) {
                 $("title").text(`Discord | #the-place${textToAppend.substring(0, i)} | Ripping Resources`);
                 await sleep(300);
             }

@@ -1,9 +1,3 @@
-//TODO: Grab music from spreadsheet
-//TODO: List music from previous days
-//TODO: Show song metadata
-//TODO: Check cookies to see if the bgm should say muted on first click.
-//
-
 let hasClickedEver = false
 let playing = false
 
