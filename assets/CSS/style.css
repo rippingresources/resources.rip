@@ -54,8 +54,8 @@ h1 {
 }
 
 #scanlines {
-	-webkit-mask-image: url(/assets/Images/Lines.png);
-	mask-image: url(/assets/Images/Lines.png);
+	-webkit-mask-image: url(https://resources.rip/assets/Images/Lines.png);
+	mask-image: url(https://resources.rip/assets/Images/Lines.png);
 	/*animation: scanlines 0.1s infinite linear;*/
 	position: fixed;
 	top: -200px;
@@ -64,8 +64,8 @@ h1 {
 }
 
 .silhouette {
-	-webkit-mask-image: url(/assets/Images/Meat.png);
-	mask-image: url(/assets/Images/Meat.png);
+	-webkit-mask-image: url(https://resources.rip/assets/Images/Meat.png);
+	mask-image: url(https://resources.rip/assets/Images/Meat.png);
 	mask-repeat: no-repeat;
 	mask-size: auto 100%;
 	mask-position: center;
